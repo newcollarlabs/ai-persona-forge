@@ -1,4 +1,4 @@
-# Characreate
+# AI PERSONA FORGE
 
 <div align="center">
   <img src="/public/img/logo.webp" alt="Characreate Logo" width="150">
@@ -12,11 +12,11 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 </div>
 
-## 🎭 About Characreate
+## 🎭 About AI PERSONA FORGE
 
 > "The purpose of personas is to create reliable and realistic representations of your key audience segments for reference."
 
-Characreate is a simple yet powerful persona generator built as a school project. It uses AI to create detailed user personas that help designers and developers understand their target audience better. With an intuitive interface and robust features, Characreate streamlines the process of developing user personas for any project.
+AI Persona Forge is a simple yet powerful persona generator built as a school project. It uses AI to create detailed user personas that help designers and developers understand their target audience better. With an intuitive interface and robust features, Characreate streamlines the process of developing user personas for any project.
 
 ## ✨ Features
 
