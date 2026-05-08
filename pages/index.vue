@@ -9,7 +9,7 @@
           class="text-2xl text-gray-600 italic font-light mb-6 leading-relaxed"
         >
           "The purpose of personas is to create reliable and realistic
-          representations of your key audience segments for reference."
+          representations of your key audience segments for reference.- A project by Kiran Vaidya"
         </blockquote>
         <h1 class="text-4xl font-bold text-gray-900">Create Your Persona</h1>
       </div>
